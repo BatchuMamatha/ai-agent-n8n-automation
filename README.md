@@ -25,7 +25,8 @@
 
 ## 📽 Preview
 
-[👉Output Video Preview]([https://drive.google.com/your_video_link_here](https://drive.google.com/file/d/1Qq2vSZqu2fuYzP_TYcUjwsXB2AojfYsZ/view?usp=drive_link))
+[👉 Output Video Preview](https://drive.google.com/file/d/1Qq2vSZqu2fuYzP_TYcUjwsXB2AojfYsZ/view?usp=drive_link)
+
 
 ---
 
